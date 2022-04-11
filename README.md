@@ -78,7 +78,7 @@ dependencies {
 
 效果如图：
 
-![image](https://upload-images.jianshu.io/upload_images/11595074-2001727ab83da1e5.gif?imageMogr2/auto-orient/strip)
+![image](https://upload-images.jianshu.io/upload_images/11595074-2001727ab83da1e5.gif?imageMogr2/teapar/rtyu)
 
 假如现在需要让Dialog和SnackBar，替换位置，只需要让Dialog定义值比SnackBar大即可：
 
